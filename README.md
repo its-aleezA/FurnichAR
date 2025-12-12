@@ -187,7 +187,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- [Project-Based Augmented Reality Course with Unity Engine and AR Foundation by freeCodeCamp.org on YouTube](https://youtu.be/FJAO6jDYljs?si=XDKeYsqD62ZeyHUU)
+- [Project-Based Augmented Reality Course with Unity Engine and AR Foundation](https://youtu.be/FJAO6jDYljs?si=XDKeYsqD62ZeyHUU) by freeCodeCamp.org on YouTube
 
 ---
 
@@ -196,7 +196,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [AR Foundation Documentation](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@6.3/manual/index.html)
 - [Google ARCore Developer Guide](https://developers.google.com/ar/develop)
 - [Apple ARKit Documentation](https://developer.apple.com/augmented-reality/)
-- [Refernce Used](https://varlabs.comp.nus.edu.sg/unitylab/learn/core_3_new.html/)
+- [Reference Used](https://varlabs.comp.nus.edu.sg/unitylab/learn/core_3_new.html/)
 ---
 
 _Note: This project was developed for educational purposes. Furniture models are for demonstration only._
