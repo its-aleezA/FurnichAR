@@ -29,7 +29,7 @@ This project creates an AR experience where users can select virtual furniture f
 ### 2. Setup & Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/[your-username]/ar-furniture-placement.git
+git clone https://github.com/its-aleezA/FurnichAR.git
 ```
 2. Open the project in Unity 2022.3.62f1
 3. Install required packages via Package Manager:
