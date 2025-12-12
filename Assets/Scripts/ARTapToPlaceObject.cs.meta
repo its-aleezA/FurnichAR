@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 06493f17ac1edab4f8bfccdf7ab0bae0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - placementIndicator: {fileID: 7490393793276640393, guid: 20a9e85d5cb0a914c9f108ac2b5da1bd, type: 3}
+  - ghost: {fileID: 3484582410292688020, guid: 9b8e6818666b2444a972e4b81f83e56d, type: 3}
+  - objectToPlace: {instanceID: 0}
+  - chair: {fileID: 100004, guid: 01dfb375646cba84e9b92e2cedf7d149, type: 3}
+  - table: {fileID: 100002, guid: 4df135dcff5ef7b488faeec987a0fe1c, type: 3}
+  - pouf: {fileID: 100000, guid: 75c3709e2bf1e9843b30f0c81dbe6b11, type: 3}
+  - shelf: {fileID: 100000, guid: 8fc847fdd92983f43b5183ed20e269a3, type: 3}
+  - sofa: {fileID: 100012, guid: 272a1dd3343458d45888ea8668d6e2ea, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
