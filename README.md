@@ -1,4 +1,4 @@
-# 🛋️ AR Furniture Placement
+# 🛋️ FurnichAR: AR Furniture Placement
 
 An Augmented Reality application that allows users to visualize and arrange virtual furniture in their real-world environment. Built with Unity AR Foundation for cross-platform AR experiences.
 
