@@ -172,7 +172,7 @@ AR-Furniture-Placement/
 
 - **[Aleeza Rizwan](https://github.com/its-aleezA)**
 - **[Zahra Shehzad](https://github.com/zahrashehzad03)**
-- **Maheen Arshad**
+- **[Maheen Arshad](https://github.com/maheenarshad2)**
 
 **Course**: EC-301 Computer Graphics  
 **Institution**: National University of Science and Technology
