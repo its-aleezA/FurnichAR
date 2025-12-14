@@ -171,7 +171,7 @@ AR-Furniture-Placement/
 ## 🤝 Team Members
 
 - **[Aleeza Rizwan](https://github.com/its-aleezA)**
-- **Zahra**
+- **[Zahra Shehzad](https://github.com/zahrashehzad03)**
 - **Maheen Arshad**
 
 **Course**: EC-301 Computer Graphics  
