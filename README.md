@@ -131,6 +131,7 @@ AR-Furniture-Placement/
 │   └── Materials/                # Shaders and materials
 ├── Packages/                     # Unity package manifests
 ├── ProjectSettings/              # Unity project configuration
+├── Blender Files/                # Blender file of a furniture test model
 └── README.md                     # This file
 ```
 
