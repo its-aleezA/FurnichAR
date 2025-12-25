@@ -2,7 +2,8 @@
 
 An Augmented Reality application that allows users to visualize and arrange virtual furniture in their real-world environment. Built with Unity AR Foundation for cross-platform AR experiences.
 
-> **Note**: This project was developed for educational purposes as part of a computer graphics course. It demonstrates AR implementation, 3D interaction, and mobile deployment.
+> [!NOTE]
+> This project was developed for educational purposes as part of a computer graphics course. It demonstrates AR implementation, 3D interaction, and mobile deployment.
 
 **Key Features**:
 - ✅ **Real-time AR surface detection** using ARCore/ARKit
