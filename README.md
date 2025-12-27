@@ -201,4 +201,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Reference Used](https://varlabs.comp.nus.edu.sg/unitylab/learn/core_3_new.html/)
 ---
 
-_Note: This project was developed for educational purposes. Furniture models are for demonstration only._
+> [!NOTE]
+> This project was developed for educational purposes. Furniture models are for demonstration only.
